@@ -42,7 +42,7 @@ Each image has a corresponding mask with **pixel-wise alignment**, ensuring that
 
 <img src="sample images/sample5.png" alt="Sample 4" width="400"/>
 
-
+<img src="sample images/unet_loss.png" alt="Sample 4" width="400"/>
 
 
 
