@@ -50,10 +50,13 @@ I'm always open to collaboration, discussion, or just a quick chat about AI and 
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/charu-agarwal-99b8851a9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Charu Agarwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Charu_Agarwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@agarwalcharu2001" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-My_Blogs-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </p>
-
 
 
 
