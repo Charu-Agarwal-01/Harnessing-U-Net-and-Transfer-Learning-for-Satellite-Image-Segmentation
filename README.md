@@ -1,0 +1,2 @@
+# Harnessing-U-Net-and-Transfer-Learning-for-Satellite-Image-Segmentation
+This project focuses on semantic segmentation of high-resolution satellite images using deep learning. We implement both U-Net and VGG19-based U-Net architectures to accurately extract land cover features from aerial imagery. The pipeline includes data preprocessing, patch generation, augmentation, model training, and result visualization.  
