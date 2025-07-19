@@ -1,5 +1,5 @@
 ## Dataset Overview: 
-We used the **[Semantic Segmentation of Aerial Imagery](https://www.kaggle.com/datasets/mohamednadjib/aerial-image-segmentation)** dataset from Kaggle for this blog. The dataset features high-resolution 
+We used the **[Semantic Segmentation of Aerial Imagery](https://www.kaggle.com/datasets/mohamednadjib/aerial-image-segmentation)** dataset from Kaggle for this project. The dataset features high-resolution 
 aerial imagery of Dubai, collected by MBRSC satellites, and annotated with pixel-wise semantic segmentation across six 
 distinct classes.
 
