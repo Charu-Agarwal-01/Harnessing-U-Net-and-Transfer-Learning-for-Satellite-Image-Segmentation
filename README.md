@@ -40,7 +40,19 @@ Both models were trained using:
 
 > VGG19 U-Net achieved better segmentation quality and boundary sharpness.
 
+## Let's Connect!
 
+I'm always open to collaboration, discussion, or just a quick chat about AI and Machine Learning! Feel free to reach out:
+
+<p align="center">
+  <a href="mailto:agarwalcharu2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-agarwalcharu2001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/charu-agarwal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Charu Agarwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
 
 
