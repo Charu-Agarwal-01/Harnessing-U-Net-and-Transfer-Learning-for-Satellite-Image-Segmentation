@@ -25,13 +25,7 @@ Each image has a corresponding mask with pixel-wise alignment, ensuring that the
 | Unlabeled          | Background/undefined  | `#9B9B9B`     |  Grey          |
 
 
-## Few sample images and mask from the Dataset
 
-<p float="left">
-  <img src="dataset_samples/sample1.png" width="30%" />
-  <img src="dataset_samples/sample2.png" width="30%" />
-  <img src="dataset_samples/sample3.png" width="30%" />
-</p>
 
 
  
