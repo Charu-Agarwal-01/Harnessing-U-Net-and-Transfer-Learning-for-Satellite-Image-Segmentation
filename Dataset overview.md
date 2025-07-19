@@ -32,17 +32,17 @@ Each image has a corresponding mask with **pixel-wise alignment**, ensuring that
 
 ### Sample images and masks
 
-<img src="sample images/sample1.png" alt="Sample 1" width="400"/>
+<img src="sample images/sample1.png" alt="Sample 1" width="600"/>
 
-<img src="sample images/sample2.png" alt="Sample 2" width="400"/>
+<img src="sample images/sample2.png" alt="Sample 2" width="600"/>
 
-<img src="sample images/sample3.png" alt="Sample 3" width="400"/>
+<img src="sample images/sample3.png" alt="Sample 3" width="600"/>
 
-<img src="sample images/sample4.png" alt="Sample 4" width="400"/>
+<img src="sample images/sample4.png" alt="Sample 4" width="600"/>
 
-<img src="sample images/sample5.png" alt="Sample 4" width="400"/>
+<img src="sample images/sample5.png" alt="Sample 4" width="600"/>
 
-<img src="sample images/unet_loss.png" alt="Sample 4" width="400"/>
+
 
 
 
