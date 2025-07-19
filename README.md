@@ -1,4 +1,5 @@
 # Harnessing-U-Net-and-Transfer-Learning-for-Satellite-Image-Segmentation
+Satellite image segmentation plays a crucial role in a wide range of geospatial applications, including land cover classification, urban planning, disaster response, and environmental monitoring.
 This project focuses on semantic segmentation of high-resolution satellite images using deep learning. We implement deep learning-based semantic segmentation models for satellite imagery using the U-Net architecture and a transfer learning-based variant with VGG19 as the encoder (VGG19 U-Net).
 
 ## Objective 
