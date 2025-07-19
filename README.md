@@ -5,7 +5,6 @@ This project focuses on semantic segmentation of high-resolution satellite image
 We used the **[Semantic Segmentation of Aerial Imagery](https://www.kaggle.com/datasets/mohamednadjib/aerial-image-segmentation)** dataset from Kaggle.  
 The objective is to accurately identify and segment features six classes namely **lands, roads, buildings, vegetation, water, unlabeled** from high-resolution aerial images using deep learning.
 
----
 
 ##  Data Preprocessing
 
@@ -19,7 +18,6 @@ To prepare the large satellite tiles for training:
 -  Performed categorical label encoding on color-coded ground truth masks
 -  Split into 70% train, 20% validation, 10% test
 
----
 
 ##  Model Overview
 
@@ -32,7 +30,6 @@ Both models were trained using:
 - **Optimizer**: Adam
 - **Batch Size**: 16
 
----
 
 ## Model Performance
 
