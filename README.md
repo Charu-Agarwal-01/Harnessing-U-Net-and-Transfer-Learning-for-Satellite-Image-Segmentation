@@ -41,6 +41,13 @@ Both models were trained using:
 
 > VGG19 U-Net achieved better segmentation quality and boundary sharpness.
 
+## Sample predictions using UNet and VGG19-UNet
+<img src="prediction_images/pred_1.png" alt="pred_1" width="800"/>
+
+<img src="prediction_images/pred_2.png" alt="pred_2" width="800"/>
+
+<img src="prediction_images/pred_3.png" alt="pred_3" width="800"/>
+
 ## Dive Deeper into the Project  
 Curious to see the **complete breakdown** of the model pipeline, preprocessing steps, visual results, and insights?
  I’ve documented everything in a blog post with visuals and intuition explained — perfect for beginners and ML enthusiasts!
